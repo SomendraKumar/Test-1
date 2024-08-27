@@ -11,6 +11,6 @@ int main()// entry point
 {
 	cout << "hello all\n";
 
-
+cout<<"jjjjjjjjjjjjjj\n";
 	
 }
